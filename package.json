@@ -31,6 +31,7 @@
     "cov": "egg-bin cov",
     "lint": "eslint .",
     "ci": "npm run lint && npm run cov",
+    "rpc": "egg-rpc-generator",
     "autod": "autod"
   },
   "ci": {
